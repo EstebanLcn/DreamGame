@@ -38,6 +38,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: 3
+    uniqueID: 2179238577
+    locked: 0
+  - name: 2
+    uniqueID: 1382767785
+    locked: 0
+  - name: 1
+    uniqueID: 3272532793
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: devant
+    uniqueID: 1855083153
     locked: 0
